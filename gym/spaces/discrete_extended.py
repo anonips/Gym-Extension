@@ -1,6 +1,6 @@
 import numpy as np
 import gym
-from gym.spaces import Discrete, Box
+from gym.spaces import Discrete
 
 class DiscreteExtended(Discrete):
 
